@@ -5,7 +5,7 @@ import pandas as pd
 
 CSV_FILE = "project-1-at-2025-06-19-11-31-cdbbe6ab.csv"
 OUTPUT_DIR = "dataset"
-base_path = "C:/Users/ASWIN/Downloads"
+base_path = "C:/Users/HP/Downloads"
 
 df = pd.read_csv(CSV_FILE, encoding='utf-8')
 df = df[~df['ocr'].isna()]
