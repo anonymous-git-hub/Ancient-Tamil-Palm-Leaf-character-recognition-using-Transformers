@@ -71,3 +71,8 @@ streamlit run "STREAMLIT APP/app.py"
 
 ---
 
+## License
+This repository is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+© Aswinkumar I, 2025. Licensed under CC BY-NC 4.0.
+
